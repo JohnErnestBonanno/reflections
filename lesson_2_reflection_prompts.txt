@@ -9,6 +9,9 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By using git diff between the working directory staged area, you can make sure
+that you have one logical change that you are implementing. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
