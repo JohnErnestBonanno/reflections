@@ -7,3 +7,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 If you auto update to the remote repository, you might publically share code before it is read for distribution.  
 Could cause a bunch of problems and confusions
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is when you copy a repo from Github from another user to your personal Github branch.
+Cloning is when you copy a repo from Github on to your local computer.  You usually copy from your own Github account, 
+but you could do this with others as well.
+Branches is when you divide your code (branch off into different directions) on your local machine
