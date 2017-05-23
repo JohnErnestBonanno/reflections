@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 By using a remote repository, you can do work whenever you want from lots of different computers.  
 You can also collaborate with a bunch of other differenet people.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If you auto update to the remote repository, you might publically share code before it is read for distribution.  
+Could cause a bunch of problems and confusions
