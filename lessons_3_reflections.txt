@@ -25,3 +25,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Without Github, would probably just email back and forth.  Without accepting changes, everything would be tiny
 iterative changes.  Github allows you to go wild, knowing you have a working copy that you don't need to worry about 
 changes (or that you can always go back and make changes)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a seperate branch protects your master branch.  By making changes in a new branch and merging it back to master,
+you can always revert back to master if you need to.  
